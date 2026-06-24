@@ -1,5 +1,5 @@
 # User manual
-
+shizuku supports root
 [[toc]]
 
 ## Start Shizuku
